@@ -2,6 +2,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Packages:
+
+### [Axios](https://github.com/axios/axios)
+### [json-server](https://github.com/typicode/json-server)
+
+start json-server :
+
+```bash
+$ json-server --watch src/database/db.json --port 3004
+```
+
 In the project directory, you can run:
 
 ### `npm start`
